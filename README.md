@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashiq</h1>
 <h3 align="center">A passionate fullstack developer, With strong logical and problem solving background</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m looking for **oppurtunity** to collab 
 
 - 💬 Ask me about **react,spring-boot**
 
